@@ -10,4 +10,4 @@ print "a" == "b";
 $result = "a" == "b";
 print $result . "\n";
 print false;
-print 0;
+print 0;    
